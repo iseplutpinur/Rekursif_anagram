@@ -1,0 +1,22 @@
+Peluang dari kata [Lutpi] adalah : 
+
+1		Lutpi		2		Lutip		3		Lupit		4		Lupti		5		Luitp		6		Luipt		
+7		Ltpiu		8		Ltpui		9		Ltiup		10		Ltipu		11		Ltupi		12		Ltuip		
+13		Lpiut		14		Lpitu		15		Lputi		16		Lpuit		17		Lptiu		18		Lptui		
+19		Liutp		20		Liupt		21		Litpu		22		Litup		23		Liput		24		Liptu		
+25		utpiL		26		utpLi		27		utiLp		28		utipL		29		utLpi		30		utLip		
+31		upiLt		32		upitL		33		upLti		34		upLit		35		uptiL		36		uptLi		
+37		uiLtp		38		uiLpt		39		uitpL		40		uitLp		41		uipLt		42		uiptL		
+43		uLtpi		44		uLtip		45		uLpit		46		uLpti		47		uLitp		48		uLipt		
+49		tpiLu		50		tpiuL		51		tpLui		52		tpLiu		53		tpuiL		54		tpuLi		
+55		tiLup		56		tiLpu		57		tiupL		58		tiuLp		59		tipLu		60		tipuL		
+61		tLupi		62		tLuip		63		tLpiu		64		tLpui		65		tLiup		66		tLipu		
+67		tupiL		68		tupLi		69		tuiLp		70		tuipL		71		tuLpi		72		tuLip		
+73		piLut		74		piLtu		75		piutL		76		piuLt		77		pitLu		78		pituL		
+79		pLuti		80		pLuit		81		pLtiu		82		pLtui		83		pLiut		84		pLitu		
+85		putiL		86		putLi		87		puiLt		88		puitL		89		puLti		90		puLit		
+91		ptiLu		92		ptiuL		93		ptLui		94		ptLiu		95		ptuiL		96		ptuLi		
+97		iLutp		98		iLupt		99		iLtpu		100		iLtup		101		iLput		102		iLptu		
+103		iutpL		104		iutLp		105		iupLt		106		iuptL		107		iuLtp		108		iuLpt		
+109		itpLu		110		itpuL		111		itLup		112		itLpu		113		itupL		114		ituLp		
+115		ipLut		116		ipLtu		117		iputL		118		ipuLt		119		iptLu		120		iptuL		
